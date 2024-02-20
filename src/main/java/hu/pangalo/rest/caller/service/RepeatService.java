@@ -1,4 +1,4 @@
-package hu.pangalo.rest.caller.api.service;
+package hu.pangalo.rest.caller.service;
 
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package hu.pangalo.rest.caller.api;
+package hu.pangalo.rest.caller;
 
 
-import hu.pangalo.rest.caller.api.service.RepeatService;
+import hu.pangalo.rest.caller.service.RepeatService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
